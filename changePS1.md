@@ -14,7 +14,7 @@
 [3] cd ../usr/etc
 [4] nano bash.bashrc */ Hapus semua isi yang ada pada bagian ***bash.bashrc*** kemudian salinlah Script yang ada dibawah ini dan masukkan kedalam bash.bashrc /*  
 
-PS1='\033[1;34m\]╭───\[\033[1;31m\]≼\[\033[1;33m\]Din-zUgex95\[\033[1;34m\]•\[\033[1;30m\]\w\[\033[1;31m\]≽
+PS1='\033[1;34m\]╭───\[\033[1;31m\]≼\[\033[1;33m\]CyBrig212@YourName\[\033[1;34m\]•\[\033[1;30m\]\w\[\033[1;31m\]≽
 \[\033[1;34m\]╰──╼\[\033[1;31m\]✠\[\033[1;32m\] '
 
 */ Jika penempatannya kurang rapih, harap dirapihkan terlebih dahulu supaya bisa menjadi 2 baris dengan cara menambahkan '\n' pada bagi tengah,
