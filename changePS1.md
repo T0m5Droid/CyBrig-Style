@@ -1,4 +1,4 @@
-# Cara Menggunakan CyBrig Themes
+# Cara Memasang CyBrig Themes
 [1] pkg update && pkg upgrade -y
 [2] pkg install python -y
 [3] pkg install python2 -y
@@ -14,6 +14,7 @@
 [3] cd ../usr/etc
 [4] nano bash.bashrc */ Hapus semua isi yang ada pada bagian ***bash.bashrc*** kemudian salinlah Script yang ada dibawah ini dan masukkan kedalam bash.bashrc /*  
 
+python cybrigStyle.py
 PS1='\033[1;34m\]╭───\[\033[1;31m\]≼\[\033[1;33m\]CyBrig212@YourName\[\033[1;34m\]•\[\033[1;30m\]\w\[\033[1;31m\]≽
 \[\033[1;34m\]╰──╼\[\033[1;31m\]✠\[\033[1;32m\] '
 
